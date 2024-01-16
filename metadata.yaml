@@ -1,5 +1,8 @@
 _repo: Hand-book-of-punctuation-b-with-instructions-for-capitalization-letter-writing-and-proof-read__72479
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72479-h/images/cover.jpg
 creator:
   author:
     agent_name: Cocker, William Johnson
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56697'
     url: http://www.gutenberg.org/2009/agents/56697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72479#Hand-book-of-punctuation-b-with-instructions-for-capitalization-letter-writing-and-proof-read_
 gutenberg_issued: '2023-12-22'
 gutenberg_type: Text
 identifiers:
